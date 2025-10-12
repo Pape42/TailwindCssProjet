@@ -9,7 +9,7 @@
                 <rect x="3" y="3" width="18" height="18" rx="2" ry="2" />
                 <path d="M12 8v8M8 12h8" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        
+
         <span>Create catalog</span>
       </button>
     </div>
@@ -20,7 +20,7 @@
         <button class="border-2 border-gray-150 px-3 text-[12px] bg-[#F9F9FB] rounded-md">Sneakers</button>
         <button class="border-2 border-gray-150 px-3 text-[12px] bg-[#F9F9FB] rounded-md">boots</button>
       </div>
-      <p class="mt-3 text-gray-500 text-[14px]">Created on 12.27.2024</p>
+      <p class="mt-[13px] text-gray-500 text-[14px]">Created on 12.27.2024</p>
       <p class="mt-3 font-semibold text-[14px]">254 products</p>
     </div>
 
